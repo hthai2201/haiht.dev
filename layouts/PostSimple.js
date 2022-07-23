@@ -19,7 +19,6 @@ export default function PostLayout({ frontMatter, type, children, authorDetails 
     readingTime: { text: readingTimeText },
   } = frontMatter
   const postUrl = `${siteMetadata.siteUrl}/${type}/${slug}`
-
   return (
     <SectionContainer>
       <BlogSeo

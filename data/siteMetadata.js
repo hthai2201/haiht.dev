@@ -8,7 +8,7 @@ const siteMetadata = {
   snippets: 'Reuseable code snippets collected by Leo',
   language: 'en-us',
   siteUrl: 'https://www.haiht.dev',
-  siteRepo: 'https://github.com/hta218/leo-blog',
+  siteRepo: 'https://github.com/hthai2201/haiht.dev',
   siteLogo: '/static/images/logo.jpg',
   image: '/static/images/logo.jpg',
   socialBanner: '/static/images/logo.jpg',
