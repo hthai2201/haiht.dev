@@ -215,7 +215,7 @@ const ProfileInfo = () => (
           ,{' '}
           <a
             target="_blank"
-            href={siteMetadata.facebook}
+            href={siteMetadata.linkedin}
             rel="noreferrer"
             className="hover:underline"
           >
